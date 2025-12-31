@@ -1,0 +1,57 @@
+# אייס קאר — Generative Engine Optimization Map
+
+> A מיקור חוץ ושירותי ניהול צי רכב business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-6dbff1a1.zappy5.app
+גלו שירותי קצין בטיחות בתעבורה מקצועיים וניהול צי רכב חכם. פתרונות מתקדמים לארגונים וחברות ברחבי הארץ.
+
+### השירותים שלנו
+https://-6dbff1a1.zappy5.app/services
+שירותי קצין בטיחות בתעבורה לחברות מקיפים - ניהול צי רכב, מעקב GPS, הדרכות בטיחות ופתרונות טכנולוגיים מתקדמים.
+
+### אודות
+https://-6dbff1a1.zappy5.app/about
+אודות אייס קאר - מובילים בתחום שירותי קצין בטיחות בתעבורה וניהול צי רכב. למידע נוסף על הצוות, הערכים והחזון שלנו.
+
+### צור קשר
+https://-6dbff1a1.zappy5.app/contact
+צור קשר עם אייס קאר לקבלת ייעוץ מקצועי בתחום שירותי קצין בטיחות בתעבורה וניהול צי רכב. נשמח לעמוד לשירותכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6dbff1a1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6dbff1a1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6dbff1a1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אייס קאר
+אייס קאר is a business in the מיקור חוץ ושירותי ניהול צי רכב industry.
+
+## Target Audience
+ארגונים וחברות ברחבי הארץ
+
+## Industry
+מיקור חוץ ושירותי ניהול צי רכב
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-6dbff1a1.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-6dbff1a1.zappy5.app/robots.txt
